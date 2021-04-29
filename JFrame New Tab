@@ -1,0 +1,6 @@
+                AppMenu appMenu = new AppMenu();
+                appMenu.setVisible(true);
+                LoginHome.setVisible(false);
+                
+                // Change 'AppMenu' with the New .Java To Be Executed
+                // Change LoginHome to the old tab, to be 'invisible'
